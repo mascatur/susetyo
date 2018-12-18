@@ -1,0 +1,15 @@
+[[headers]]
+  for = "/*"
+  [headers.values]
+  
+  /*
+X-Frame-Options: DENY
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Powered-By: Mudah
+Strict-Transport-Security:max-age=63072000; includeSubDomains
+Content-Security-Policy: default-src 'aHR0cHM6Ly9zdXNldHlvLndlYi5pZC8='  *.susetyo.web.id *.disqus.com *.github.com *.wikipedia.com; base-uri 'self'; frame-ancestors 'none';script-src 'aHR0cHM6Ly9zdXNldHlvLndlYi5pZC8=' *.susetyo.web.id *.disqus.com www.google-analytics.com ajax.googleapis.com;style-src 'aHR0cHM6Ly9zdXNldHlvLndlYi5pZC8=';
+Referrer-Policy: no-referrer
+Server: Nusa
+ServerSignature: off
+Feature-Policy: geolocation self
