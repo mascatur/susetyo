@@ -4,7 +4,7 @@ X-XSS-Protection: 1; mode=block
 X-Content-Type-Options: nosniff
 X-Powered-By: Mudah
 Strict-Transport-Security:max-age=63072000; includeSubDomains
-Content-Security-Policy: default-src 'self'  *.susetyo.web.id *.disqus.com *.github.com *.wikipedia.com; base-uri 'self'; frame-ancestors 'none';script-src 'sha256-m9BzlDAWT2U65ou0ZwqHULtQiqIIINjycZZWTXg5whM=' 'sha256-g8ihjzY3zTDT49OH5/Ie6pF9UrWkZt9uiMto/0Tfedo=' 'sha256-CyKaBByfyfu0WqDGgHpAscEku4UeP6ViDqLWcMeR1tg=' *.susetyo.web.id *.disqus.com www.google-analytics.com ajax.googleapis.com;style-src 'sha256-CMpT7F192GyV1mjSPIARADfYTKdGpKyTUoJEufpTWBA=' 'sha256-j2IbvtPbhVrkJgRFgWFAXIC0t5FBstziFIw6nxK1gsw=' 'sha256-olU6DX/xjlsTsWwCVXosxaT+FD8uhBJ+bRsqKl6fz5U=' 'sha256-NpZw92+O0SwAHjXZczh3k0jqgzRP1D1TEjQBERZZJEE=';
+Content-Security-Policy: default-src 'nonce-m125'  *.susetyo.web.id *.disqus.com *.github.com *.wikipedia.com; base-uri 'self'; frame-ancestors 'none';script-src 'nonce-m125' *.susetyo.web.id *.disqus.com www.google-analytics.com ajax.googleapis.com;style-src 'nonce-m125';
 Referrer-Policy: no-referrer
 Server: Nusa
 ServerSignature: off
