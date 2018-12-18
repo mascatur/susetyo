@@ -4,7 +4,7 @@ X-XSS-Protection: 1; mode=block
 X-Content-Type-Options: nosniff
 X-Powered-By: Mudah
 Strict-Transport-Security:max-age=63072000; includeSubDomains
-Content-Security-Policy: default-src 'self' *.disqus.com *.github.com *.wikipedia.com; base-uri 'self'; frame-ancestors 'none';
+Content-Security-Policy: default-src 'self'  *.susetyo.web.id *.disqus.com *.github.com *.wikipedia.com; base-uri 'self'; frame-ancestors 'none';
 Referrer-Policy: no-referrer
 Server: Nusa
 ServerSignature: off
