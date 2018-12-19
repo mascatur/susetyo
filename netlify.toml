@@ -1,3 +1,20 @@
+[build]
+
+  base = "/"
+
+  publish = "/"
+
+ 
+  command = "echo 'default context'"
+
+ 
+[context.production]
+  publish = "/"
+  command = "make publish"
+
+
+
+
 [[headers]]
   for = "/*"
   [headers.values]
