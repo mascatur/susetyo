@@ -24,7 +24,7 @@ X-Frame-Options: DENY
 X-XSS-Protection: 1; mode=block
 X-Content-Type-Options: nosniff
 X-Powered-By: Mudah
-Strict-Transport-Security:max-age=63072000; includeSubDomains
+Strict-Transport-Security:max-age=10800; includeSubDomains, preload;
 Content-Security-Policy: default-src 'self'  *.susetyo.web.id *.disqus.com *.github.com *.wikipedia.com; base-uri 'self'; frame-ancestors 'none';script-src 'self' *.susetyo.web.id *.disqus.com www.google-analytics.com ajax.googleapis.com;style-src 'self';
 Referrer-Policy: no-referrer
 Server: Nusa
