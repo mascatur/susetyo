@@ -1,42 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Even - A super concise theme for Hugo</title><link>https://susetyo.web.id/</link><description>Recent content on Even - A super concise theme for Hugo</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 20 Aug 2017 21:38:52 +0800</lastBuildDate><atom:link href="https://susetyo.web.id/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://susetyo.web.id/about/</link><pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate><guid>https://susetyo.web.id/about/</guid><description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
-Cobra Viper J Walter Weatherman Cast Learn more and contribute on GitHub.</description></item><item><title>Shortcodes</title><link>https://susetyo.web.id/post/shortcodes/</link><pubDate>Tue, 30 Aug 2016 16:01:23 +0800</pubDate><guid>https://susetyo.web.id/post/shortcodes/</guid><description>&lt;h1 id=&#34;admonition&#34;&gt;Admonition&lt;/h1&gt;
-&lt;div class=&#34;admonition note&#34;&gt;&lt;p class=&#34;admonition-title&#34;&gt;I&amp;#39;m title!&lt;/p&gt;
-&lt;p&gt;biu biu biu.&lt;/p&gt;
-&lt;p&gt;&lt;details class=&#34;admonition note&#34;&gt;&lt;summary class=&#34;admonition-title&#34;&gt;note&lt;/summary&gt;
-&lt;p&gt;biu biu biu.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/details&gt;&lt;/p&gt;
-&lt;div class=&#34;admonition example&#34;&gt;
-&lt;p&gt;Without title.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;lnt&#34;&gt; 1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;{{% admonition note &amp;#34;I&amp;#39;m title!&amp;#34; false %}}&lt;span class=&#34;err&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&lt;/span&gt;biu biu biu.&lt;span class=&#34;err&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&lt;/span&gt;{{% admonition type=&amp;#34;note&amp;#34; title=&amp;#34;note&amp;#34; details=&amp;#34;true&amp;#34; %}}&lt;span class=&#34;err&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&lt;/span&gt;biu biu biu.&lt;span class=&#34;err&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&lt;/span&gt;{{% /admonition %}}&lt;span class=&#34;err&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&lt;/span&gt;{{% admonition example %}}&lt;span class=&#34;err&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&lt;/span&gt;Without title.&lt;span class=&#34;err&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&lt;/span&gt;{{% /admonition %}}&lt;span class=&#34;err&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&lt;/span&gt;{{% /admonition %}}&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Catur Susetyo</title><link>https://www.susetyo.web.id/</link><description>Recent content on Catur Susetyo</description><generator>Hugo -- gohugo.io</generator><language>id</language><lastBuildDate>Mon, 18 Sep 2017 10:26:31 +0700</lastBuildDate><atom:link href="https://www.susetyo.web.id/" rel="self" type="application/rss+xml"/><item><title>Events</title><link>https://www.susetyo.web.id/event/</link><pubDate>Mon, 18 Sep 2017 10:26:31 +0700</pubDate><guid>https://www.susetyo.web.id/event/</guid><description>Transaksi anda aman karena didukung dan dikelola langsung oleh tiket.com. Dengan booking atau membeli tiket dari web ini, anda telah turut berdonasi untuk kelangsungan web ini. Terima Kasih.
+Jika ingin memesan langsung di web tiket.com, silahkan klik link berikut tiket.com .</description></item><item><title>Hotel</title><link>https://www.susetyo.web.id/hotel/</link><pubDate>Mon, 18 Sep 2017 10:26:31 +0700</pubDate><guid>https://www.susetyo.web.id/hotel/</guid><description>Transaksi anda aman karena didukung dan dikelola langsung oleh tiket.com. Dengan booking atau membeli tiket dari web ini, anda telah turut berdonasi untuk kelangsungan web ini. Terima Kasih.
+Jika ingin memesan langsung di web tiket.com, silahkan klik link berikut tiket.com .</description></item><item><title>Tiket</title><link>https://www.susetyo.web.id/tiket/</link><pubDate>Mon, 18 Sep 2017 10:26:31 +0700</pubDate><guid>https://www.susetyo.web.id/tiket/</guid><description>Transaksi anda aman karena didukung dan dikelola langsung oleh tiket.com. Dengan booking atau membeli tiket dari web ini, anda telah turut berdonasi untuk kelangsungan web ini. Terima Kasih.
+Jika ingin memesan langsung di web tiket.com, silahkan klik link berikut ini tiket.com .
+Pemesanan tiket kereta ada di bawah form ini.</description></item><item><title>Daftar Isi</title><link>https://www.susetyo.web.id/daftarisi/</link><pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate><guid>https://www.susetyo.web.id/daftarisi/</guid><description>Politik
+Blog
+(adsbygoogle = window.adsbygoogle || []).push({});</description></item><item><title>Bahaya Garam dan Pencegahannya</title><link>https://www.susetyo.web.id/blog/bahaya-garam-dan-pencegahannya/</link><pubDate>Tue, 06 Jun 2017 17:16:02 +0700</pubDate><guid>https://www.susetyo.web.id/blog/bahaya-garam-dan-pencegahannya/</guid><description>Resiko asupan garam yang berlebihan Banyak artikel yang mengulas bahaya dari asupan garam yang berlebihan. Di antaranya: tekanan darah tinggi, gangguan ginjal, stroke, pembengkakan jantung, dehidrasi, pembengkakan kaki pada ibu hamil, memperparah osteoporosis, memperparah kerontokan rambut, dll. Yang paling berat, bisa menyebabkan kematian.
+Saat ini, berbagai makanan cepat saji dan cemilan, ditengarai mengandung kadar garam tinggi. Tak heran, tekanan darah tinggi yang dulunya banyak dialami oleh orang tua, sekarang mudah ditemukan di kalangan remaja.</description></item><item><title>Teater yang mengubah duniamu</title><link>https://www.susetyo.web.id/blog/teater-yang-mengubah-duniamu/</link><pubDate>Fri, 05 May 2017 18:32:41 +0700</pubDate><guid>https://www.susetyo.web.id/blog/teater-yang-mengubah-duniamu/</guid><description>Apa yang anda bayangkan jika mendengar kata teater ? Apapun yang anda bayangkan, mungkin tidak sama dengan yang akan saya ceritakan ini. Ini adalah sudut pandang yang sangat berbeda.
+Prolog Hari ini saya mampir sebentar ke Teater Korek, Unisma Bekasi. Hampir seluruhnya adalah muka-muka baru. Tentunya juga ada beberapa sobat lama. Tiba-tiba saya ditodong untuk mendongeng. Anak-anak baru penasaran. Ingin mengetahui apa pendapat saya, tentang Unisma dan Teater Korek. Saya gagap, bingung harus mulai darimana.</description></item><item><title>Menulis, sebuah perjalanan memaknai diri</title><link>https://www.susetyo.web.id/blog/menulis-adalah-belajar-jujur/</link><pubDate>Tue, 02 May 2017 10:47:43 +0700</pubDate><guid>https://www.susetyo.web.id/blog/menulis-adalah-belajar-jujur/</guid><description>Seorang teman, di salah satu grup WA Mahasiswa FISIP UT, membaca tulisan saya. Beliau menyatakan, ingin belajar dari saya, membuat tulisan yang menarik, seperti tulisan saya. Wow, dejavu. Sepertinya masa lalu saya terulang kembali. Sebuah peristiwa, ketika saya dinilai lebih baik dari kenyataannya. Lebih lengkapnya pernah saya tulis di artikel Berjuang untuk normal .
+Tentunya saya tidak bisa berperan sebagai guru. Karena guru adalah seseorang yang telah terbukti sukses di bidangnya.</description></item><item><title>Saya butuh jawaban, kenapa anda malah bertanya ?</title><link>https://www.susetyo.web.id/blog/saya-butuh-jawaban/</link><pubDate>Fri, 28 Apr 2017 10:01:14 +0700</pubDate><guid>https://www.susetyo.web.id/blog/saya-butuh-jawaban/</guid><description>Pengantar Mungkin ada yang bertanya di dalam hati:
+Kenapa pada tulisan-tulisan saya, ada semakin banyak pertanyaan ? Bukankah sebuah tulisan, seharusnya digunakan untuk menjawab atau menginformasikan sesuatu ? Saya butuh jawaban, tapi saya malah temukan pertanyaan, apa gunanya ? Hipnotisme mengancam pikiran anda Maaf saya mulai bertanya lagi, bahkan sebelum menjawab pertanyaan di atas. Dan agak panjang, supaya anda tahu gambarannya sedetail mungkin. Tahukah anda, bahwa kemungkinan saat ini anda dalam keadaan terhipnotis ?</description></item><item><title>Misteri Freeport, Indonesia dalam bahaya</title><link>https://www.susetyo.web.id/politik/misteri-freeport-indonesia-dalam-bahaya/</link><pubDate>Wed, 26 Apr 2017 15:02:46 +0700</pubDate><guid>https://www.susetyo.web.id/politik/misteri-freeport-indonesia-dalam-bahaya/</guid><description>Soekarno, JFK dan Freeport. Pertamanya saya ingin menulis tentang &amp;ldquo;Bicara Politik&amp;rdquo;. Sebagai lanjutan tulisan saya sebelumnya. Namun saya tangguhkan, karena ada yang ingin saya dahulukan.
+Freeport selalu menarik perhatian saya. Sejak kecil, beberapa kali saya mendengar nama itu dari ayah saya. Tapi Freeport bukan topik utama. Sebenarnya ayah sedang menceritakan tentang Presiden Soekarno. Tentang persahabatannya dengan Presiden Amerika John F. Kennedy.
+Menurut beliau, kedua presiden itu memiliki banyak persamaan, sama-sama presiden termuda waktu itu.</description></item><item><title>Ngomong tentang Indonesia dan dunia</title><link>https://www.susetyo.web.id/politik/ngomongin-negara/</link><pubDate>Tue, 25 Apr 2017 11:04:08 +0700</pubDate><guid>https://www.susetyo.web.id/politik/ngomongin-negara/</guid><description>Permulaan Turut menyaksikah hadirnya internet di Indonesia di awal masa 1990-an, rasanya seperti menjadi pelaku sejarah. Sebuah jaman, di mana informasi mengalir begitu deras.
+Untuk beberapa kalangan, terasa mengejutkan, mengagumkan, dan ada pula yang menganggapnya sebagai ancaman.
+Konon, perkembangan teknologi yang begitu masif ini, merubah &amp;ldquo;wajah&amp;rdquo; banyak negara. Termasuk mengantarkan Indonesia, memasuki periode reformasi.
+Lahirnya Para Pendekar Peran para perintis teknologi IT Indonesia, sangatlah besar. Terdiri dari para akademisi maupun mahasiswa yang umumnya sedang kuliah di luar negeri.</description></item><item><title>Credits</title><link>https://www.susetyo.web.id/credits/</link><pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate><guid>https://www.susetyo.web.id/credits/</guid><description>This web is official personal web of Catur Susetyo.
+This site makes use of a variety of free and open source projects including:
+Built in Hugo Theme inspired by Hugo Phlat Theme Public Repositories by Github Deploy at Netlify Have questions or suggestions? Feel free to ask me on Twitter.
+Thanks for reading!
+(adsbygoogle = window.adsbygoogle || []).push({});</description></item><item><title>Berjuang untuk normal</title><link>https://www.susetyo.web.id/blog/berjuang-untuk-normal/</link><pubDate>Thu, 16 Mar 2017 14:54:09 +0700</pubDate><guid>https://www.susetyo.web.id/blog/berjuang-untuk-normal/</guid><description>Kenapa saya selalu optimis dan menaruh harapan tinggi kepada generasi muda Bungkal ? Karena 99% dari mereka cukup &amp;ldquo;sehat&amp;rdquo;. Pastinya jauh lebih &amp;ldquo;sehat&amp;rdquo; dari yang pernah saya alami.
+Para senior di sini, yang sempat bertemu saya langsung, di masa kecil saya, mungkin masih ingat kondisi balita saya. Seorang bocah yang &amp;ldquo;ngowoh&amp;rdquo; sepanjang hari. Dengan tatapan mata kosong, entah melihat kemana. Yang ngajak bicara sayapun, sepertinya hanya orang-orang yang punya kesabaran tinggi.</description></item><item><title> Di sini</title><link>https://www.susetyo.web.id/bukan-puisi/di-sini/</link><pubDate>Thu, 06 Oct 2016 14:22:41 +0700</pubDate><guid>https://www.susetyo.web.id/bukan-puisi/di-sini/</guid><description>Aku tak pernah lupa jalan pulang
+Karena kita tak pernah pergi
+Selalu di sini
+Di dalam sukha citta ini
+DenganMu
+PASTI</description></item><item><title>Antara Waktu, Perangkat dan Teknologi</title><link>https://www.susetyo.web.id/blog/antara-waktu-perangkat/</link><pubDate>Tue, 31 May 2016 14:01:04 +0700</pubDate><guid>https://www.susetyo.web.id/blog/antara-waktu-perangkat/</guid><description>Di akhir tahun 2007, saya baru saja membeli HP Java. Di saat yang sama, masyarakat pada umumnya sudah memiliki HP Symbian. Ketika sedang meneliti fitur - fiturnya, saya senang sekali karena HP tersebut sudah bisa mengakses internet. Walaupun cuma laman WAP dengan koneksi GPRS. Yang pertama kali ingin saya lakukan adalah mengedit web. Saya memiliki banyak web dan blog dengan berbagai platform. Ada yang wordpress, ada blogger, joomla, PHP, bahkan HTML biasa .</description></item><item><title>Saya Menyebutnya: Perangkat Lunak Merdeka</title><link>https://www.susetyo.web.id/blog/perangkat-lunak-merdeka/</link><pubDate>Wed, 25 Apr 2012 13:44:19 +0700</pubDate><guid>https://www.susetyo.web.id/blog/perangkat-lunak-merdeka/</guid><description>Apakah free software itu? Istilah &amp;ldquo;free software&amp;rdquo;, kurang populer di Indonesia. Yang lebih terkenal adalah : freeware, software gratis atau software gratisan, open source dan software bajakan.
+Maaf menyela, bukankah semua istilah itu memiliki makna yang sama?
+Tidak sama.
+Pada dasarnya, sebuah program disebut FREE SOFTWARE jika memenuhi empat syarat utama: Kebebasan untuk menjalankan programnya untuk tujuan apa saja. Kebebasan untuk mempelajari bagaimana program itu bekerja serta dapat disesuaikan dengan kebutuhan anda .</description></item><item><title>Cintamu, Cinta Apa ?</title><link>https://www.susetyo.web.id/bukan-puisi/cintamu-cinta-apa/</link><pubDate>Fri, 09 Mar 2012 13:33:18 +0700</pubDate><guid>https://www.susetyo.web.id/bukan-puisi/cintamu-cinta-apa/</guid><description>Jika Anda mengembangkan Cinta,
+Cinta yang sungguh-sungguh Agung,
+lenyapkan keinginan untuk mengekang dan memiliki,
+Cinta yang kuat,
+Cinta yang bersih dari nafsu,
+Cinta yang tak berharap untuk dicintai kembali,
+Cinta yang kokoh tetapi tidak melekat,
+bertahan tapi tidak mengikat,
+lemah-lembut dan menenangkan,
+keras bagaikan intan tetapi tidak melukai,
+membantu tetapi tidak ikut campur,
+menyejukkan dan menyegarkan,
+lebih banyak memberi daripada mengambil,
+bermartabat tetapi tidak sombong,
+lembut tetapi tidak lemah,
+Cinta yang membimbing menuju Pencerahan,</description></item><item><title>Beli domain Id, satu hari langsung jadi</title><link>https://www.susetyo.web.id/blog/beli-domain-id-satu-hari-langsung-jadi/</link><pubDate>Wed, 21 Sep 2011 21:25:00 +0700</pubDate><guid>https://www.susetyo.web.id/blog/beli-domain-id-satu-hari-langsung-jadi/</guid><description>Update April 2017
+Apakah domain .id itu ? Sama dengan domain lain. Yang unik adalah: .id adalah singkatan untuk Indonesia.
+Apakah keunggulan dari domain .id ? Domain .id ada dua jenis, yaitu dengan satu titik seperti namasitus.id, ada yang dua titik seperti susetyo.web.id. Keunggulannya cukup banyak, di antaranya adalah:
+Lebih ekonomis. Pada umumnya harga domain berkisar 100 ribuan setahun. Domain .id juga sama. Namun jika anda mau menggunakan domain .</description></item></channel></rss>
