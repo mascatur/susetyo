@@ -5,19 +5,9 @@ ID = "a7370f85-58d1-439a-abfe-730093565f4f"
 
 
 
-[build]
-
-  base = "/"
-
-  publish = "/"
 
  
-  command = "echo 'default context'"
-
  
-[context.production]
-  publish = "/"
-  command = "make publish"
 
 
 
