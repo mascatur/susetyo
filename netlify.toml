@@ -7,14 +7,14 @@ ID = "a7370f85-58d1-439a-abfe-730093565f4f"
   for = "/*"
   [headers.values]
 
-Cache-Control = "public, max-age=360000"
+Cache-Control = "public, max-age=31536000"
 Access-Control-Allow-Origin = "*"
 X-Frame-Options = "DENY"
 X-XSS-Protection = "1; mode=block"
 X-Content-Type-Options = "nosniff"
 
-Strict-Transport-Security = "max-age=21600; includeSubDomains, preload;"
-
+Strict-Transport-Security = max-age=31536000; includeSubDomains, preload;
+Content-Security-Policy = default-src https: 'unsafe-eval' 'unsafe-inline'; object-src 'none'
 
 
 
