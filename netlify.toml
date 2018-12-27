@@ -15,10 +15,7 @@ X-Content-Type-Options = "nosniff"
 
 Strict-Transport-Security = "max-age=21600; includeSubDomains, preload;"
 
-Content-Security-Policy = "default-src 'self'  *.susetyo.web.id *.disqus.com *.github.com *.wikipedia.com; base-uri 'self';"
-Content-Security-Policy = "frame-ancestors 'none';script-src 'self' *.susetyo.web.id *.disqus.com *.google-analytics.com *.googleapis.com;style-src 'self';"
-
-Content-Security-Policy = "report-uri https://sentry.io/api/1356512/security/?sentry_key=babc3d23ddab4967b27c87cfb7438470"
+Content-Security-Policy = "default-src 'self'  *.susetyo.web.id *.disqus.com *.github.com *.wikipedia.com; base-uri 'self';frame-ancestors 'none';script-src 'self' *.susetyo.web.id *.disqus.com *.google-analytics.com *.googleapis.com;style-src 'self'; img-src 'self' *.blogspot.com;report-uri https://sentry.io/api/1356512/security/?sentry_key=babc3d23ddab4967b27c87cfb7438470"
 
 Referrer-Policy = "strict-origin-when-cross-origin"
  
