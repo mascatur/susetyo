@@ -3,6 +3,7 @@ X-XSS-Protection: 1; mode=block
 X-Content-Type-Options: nosniff
 X-Powered-By: Mudah
 Header set Cache-Control "max-age=2628000, public"
+Header set Access-Control-Allow-Origin
 Strict-Transport-Security:max-age=21600; includeSubDomains, preload;
 Content-Security-Policy: default-src 'self'  *.susetyo.web.id *.disqus.com *.github.com *.wikipedia.com; base-uri 'self'; 
 Content-Security-Policy: frame-ancestors 'none';script-src 'self' *.susetyo.web.id *.disqus.com *.google-analytics.com *.googleapis.com;style-src 'self';
