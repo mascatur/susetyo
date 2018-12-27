@@ -3,6 +3,29 @@
 # Git-backed deploys.
 ID = "a7370f85-58d1-439a-abfe-730093565f4f"
 
+[[headers]]
+  for = "/*"
+  [headers.values]
+  
+X-Frame-Options = "DENY"
+X-XSS-Protection = "1; mode=block"
+X-Content-Type-Options = "nosniff"
+
+Header set Cache-Control "max-age=2628000, public"
+Header set Access-Control-Allow-Origin
+
+Strict-Transport-Security = "max-age=21600; includeSubDomains, preload;"
+
+Content-Security-Policy = "default-src 'self'  *.susetyo.web.id *.disqus.com *.github.com *.wikipedia.com; base-uri 'self';"
+Content-Security-Policy = "frame-ancestors 'none';script-src 'self' *.susetyo.web.id *.disqus.com *.google-analytics.com *.googleapis.com;style-src 'self';"
+
+Content-Security-Policy = "report-uri https://sentry.io/api/1356512/security/?sentry_key=babc3d23ddab4967b27c87cfb7438470"
+
+Referrer-Policy = "strict-origin-when-cross-origin"
+ 
+Feature-Policy = "geolocation self"
+
+
 
 
 
