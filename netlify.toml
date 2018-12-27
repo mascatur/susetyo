@@ -6,13 +6,12 @@ ID = "a7370f85-58d1-439a-abfe-730093565f4f"
 [[headers]]
   for = "/*"
   [headers.values]
-  
+
+Cache-Control = "public, max-age=360000"
+Access-Control-Allow-Origin = "*"
 X-Frame-Options = "DENY"
 X-XSS-Protection = "1; mode=block"
 X-Content-Type-Options = "nosniff"
-
-Header = "set Cache-Control 'max-age=2628000, public'"
-Header = "set Access-Control-Allow-Origin"
 
 Strict-Transport-Security = "max-age=21600; includeSubDomains, preload;"
 
