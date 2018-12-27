@@ -15,7 +15,7 @@ X-Content-Type-Options = "nosniff"
 
 Strict-Transport-Security = "max-age=21600; includeSubDomains, preload;"
 
-Content-Security-Policy = "default-src 'none';frame-ancestors 'none';script-src  *.susetyo.web.id *.disqus.com *.google-analytics.com *.googleapis.com;style-src https: 'unsafe-inline';"
+
 
 
 Referrer-Policy = "strict-origin-when-cross-origin"
