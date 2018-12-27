@@ -11,8 +11,8 @@ X-Frame-Options = "DENY"
 X-XSS-Protection = "1; mode=block"
 X-Content-Type-Options = "nosniff"
 
-Header set Cache-Control "max-age=2628000, public"
-Header set Access-Control-Allow-Origin
+Header = "set Cache-Control 'max-age=2628000, public'"
+Header = "set Access-Control-Allow-Origin"
 
 Strict-Transport-Security = "max-age=21600; includeSubDomains, preload;"
 
