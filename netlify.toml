@@ -14,7 +14,7 @@ X-XSS-Protection = "1; mode=block"
 X-Content-Type-Options = "nosniff"
 
 Strict-Transport-Security = "max-age=31536000; includeSubDomains;preload;"
-Content-Security-Policy = "base-uri 'self'; child-src 'none'; connect-src https://sentry.prod.mozaws.net; form-action 'self'; frame-src 'none'; img-src  data: https://susetyo.web.id https://*.wikimedia.org https://*.blogspot.com; manifest-src 'none'; media-src 'none'; object-src 'none'; script-src  data: https://susetyo.web.id ; style-src 'self' data: https://susetyo.web.id; worker-src 'none'; font-src https://susetyo.web.id; prefetch-src https://susetyo.web.id"
+Content-Security-Policy = "base-uri 'self'; child-src 'none'; connect-src https://sentry.prod.mozaws.net; form-action 'self'; frame-src 'none'; img-src   https://susetyo.web.id https://*.wikimedia.org https://*.blogspot.com; manifest-src 'none'; media-src 'none'; object-src 'none'; script-src   https://susetyo.web.id ; style-src 'self' https://susetyo.web.id; worker-src 'none'; font-src https://susetyo.web.id; prefetch-src https://susetyo.web.id"
  
 ServerTokens = "Prod"
 ServerSignature = "Off"
